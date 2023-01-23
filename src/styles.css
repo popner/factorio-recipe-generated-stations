@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+textarea {
+  background-color: rgb(246, 248, 250);
+  border-radius: 8px;
+  padding: 8px;
+}
+
+#recipeData {
+  height: 100px;
+  width: 600px;
+}
+
+#bpString {
+  height: 800px;
+  width: 600px;
+}
+
+.button-container {
+  height: 26px;
+  width: 600px;
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
